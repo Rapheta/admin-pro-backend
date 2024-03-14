@@ -71,7 +71,7 @@ const getDocumentosColeccion = async (req, res) => {
 
     res.json({
         ok: true,
-        resutados: data
+        resultados: data
     });
 
 }
